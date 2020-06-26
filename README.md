@@ -8,6 +8,9 @@ The objective of this repository is to be used as a collection of projects that 
 
 There are two files in this directory: `TicTacToeSimple.py` and `TicTacToeAdvanced.py`. Both do exactly the same thing: let the user play a game of Tic-Tac-Toe. New programmers should look at both.
 
+### Factor Finder
+
+
 ### Python Documentation
 
 It's good practice to document your code, even though I usually don't too good of a job. I recommend reading through [this page](https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings). I personally like the Google docstring format (and I used it when documenting these programs), but all of them have pros and cons. A complete Google docstrings guide can be found [here](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings). In-code documentation can also be found by calling `help(THING_YOU_NEED_HELP_WITH)`
