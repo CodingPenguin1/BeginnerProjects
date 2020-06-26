@@ -10,6 +10,7 @@ There are two files in this directory: `TicTacToeSimple.py` and `TicTacToeAdvanc
 
 ### Factor Finder
 
+Gets an integer from the user, then prints out the factors of that number in ascending order
 
 ### Python Documentation
 
